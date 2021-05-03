@@ -2,23 +2,23 @@
 
 ## Modulos de desarrollo
 
-> @babel/cli
-> @babel/core
-> @babel/node
-> @babel/preset-env
-> nodemon
+- @babel/cli
+- @babel/core
+- @babel/node
+- @babel/preset-env
+- nodemon
 
 ## Dependencias
 
-> Cors
-> Express
-> Morgan
-> Sequelize
+- Cors
+- Express
+- Morgan
+- Sequelize
 
 ## Base de datos
 
-> PostgreSQL
+- PostgreSQL
 
 ## Frontend
 
-> React
+- React
